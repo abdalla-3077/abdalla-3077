@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla-3077&label=Profile%20views&color=070808&style=flat-square" alt="abdalla-3077" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
