@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdalla Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla-3077&label=Profile%20views&color=070808&style=flat-square" alt="abdalla-3077" /> -
-  <img src="https://api.statusbadges.me/badge/status/1062197137749852290?simple=true&style=flat-square" alt="status"> -
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla-3077&label=Profile%20views&color=070808&style=flat-square" alt="abdalla-3077" /> _
+  <img src="https://api.statusbadges.me/badge/status/1062197137749852290?simple=true&style=flat-square" alt="status"> _
 <img src="https://api.statusbadges.me/badge/vscode/1062197137749852290?style=flat-square" alt="vscode">
 </p>
 
