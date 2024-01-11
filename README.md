@@ -20,10 +20,6 @@
 
 ### Get My App
 
-
-
-      [![Nova icon](https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0)](https://com-nova-nova.en.uptodown.com/android)
-
 [Download Nova](https://com-nova-nova.en.uptodown.com/android)
 
 
