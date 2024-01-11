@@ -19,65 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Get My App
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;600&display=swap');
-    
-    .item {
-        min-width: 100px;
-        width: 100px;
-        position: relative;
-        vertical-align: top;
-        margin: 10px 10px 10px 0;
-        white-space: normal;
-        line-height: 1.2;
-    }
 
-    .item figure {
-        width: auto;
-        height: 100px;
-        margin: 0 0 10px;
-        text-align: center;
-        cursor: pointer;
-    }
-
-    .item figure img {
-        width: 100px;
-        height: auto;
-        border-radius: 5px;
-    }
-
-    .item div.name {
-        font-family: 'Roboto Slab', serif;
-        color: #333333;
-        font-size: 14px;
-        font-weight: 600;
-        word-break: break-word;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-        text-align: center;
-    }
-
-    .item div.name a {
-        text-decoration: none;
-        color: inherit;
-        cursor: pointer;
-    }
-
-    .item div.description {
-        font-family: 'Roboto Slab', serif;
-        color: #999;
-        font-size: 12px;
-        font-weight: 300;
-        margin-top: 5px;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-        text-align: center;
-    }
-</style>
 
 <div class="item">
     <figure onclick="location.href='https://com-nova-nova.en.uptodown.com/android';">
