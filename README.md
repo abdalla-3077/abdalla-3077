@@ -22,14 +22,10 @@
 
 
 
-        <a href="https://com-nova-nova.en.uptodown.com/android" title="Download Nova"><img 
-            width="100px"
-            height="100px"
-            alt="Nova icon"
-            loading="lazy"
-            class="app_card_img"
-            src="https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0"
-            srcset="https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0:100 1x, https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0:200 2x, https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0:300 3x"></a>
+      [![Nova icon](https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0)](https://com-nova-nova.en.uptodown.com/android)
+
+[Download Nova](https://com-nova-nova.en.uptodown.com/android)
+
 
 
 
