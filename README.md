@@ -18,6 +18,85 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### Get My App
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;600&display=swap');
+    
+    .item {
+        min-width: 100px;
+        width: 100px;
+        position: relative;
+        vertical-align: top;
+        margin: 10px 10px 10px 0;
+        white-space: normal;
+        line-height: 1.2;
+    }
+
+    .item figure {
+        width: auto;
+        height: 100px;
+        margin: 0 0 10px;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    .item figure img {
+        width: 100px;
+        height: auto;
+        border-radius: 5px;
+    }
+
+    .item div.name {
+        font-family: 'Roboto Slab', serif;
+        color: #333333;
+        font-size: 14px;
+        font-weight: 600;
+        word-break: break-word;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .item div.name a {
+        text-decoration: none;
+        color: inherit;
+        cursor: pointer;
+    }
+
+    .item div.description {
+        font-family: 'Roboto Slab', serif;
+        color: #999;
+        font-size: 12px;
+        font-weight: 300;
+        margin-top: 5px;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-align: center;
+    }
+</style>
+
+<div class="item">
+    <figure onclick="location.href='https://com-nova-nova.en.uptodown.com/android';">
+        <img 
+            width="100px"
+            height="100px"
+            alt="Nova icon"
+            loading="lazy"
+            class="app_card_img"
+            src="https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0"
+            srcset="https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0:100 1x, https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0:200 2x, https://img.utdstc.com/icon/7c7/6f4/7c76f4d0ff8cb577a3cdff0fffe20f55486f0bab44e9247ba1e06dae79f014c0:300 3x">
+    </figure>
+    <div class="name">
+        <a href="https://com-nova-nova.en.uptodown.com/android" title="Download Nova">Nova</a>
+    </div>
+    <div class="description">Social app fostering connections, sharing moments effortlessly</div>
+</div>
+
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
