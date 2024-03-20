@@ -22,7 +22,9 @@
 
 [Download Nova](https://com-nova-nova.en.uptodown.com/android)
 
+### Daily.dev
 
+<a href="https://app.daily.dev/abdalla3077"><img src="https://api.daily.dev/devcards/v2/MohnQXHarwaWGrAGRT8KE.png?r=d9d&type=default" width="356" alt="Abdalla Ahmed's Dev Card"/></a>
 
 
 ### 😂 Random Dev Meme
