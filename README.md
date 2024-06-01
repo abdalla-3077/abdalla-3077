@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&weight=100&size=28&pause=1000&color=B10000&center=true&random=false&width=435&lines=Free+Palestine+%F0%9F%87%B5%F0%9F%87%B8)](https://git.io/typing-svg)
 
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 
 # 💫 About Me:
 🔭 I’m currently working on Nova<br>🌱 I’m currently learning React Native<br>
