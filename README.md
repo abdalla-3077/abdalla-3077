@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&size=28&pause=1000&width=1000&lines=Free+Palestine+🇵🇸)](https://github.com/abdalla-3077)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=1000&lines=Hey!+Welcome+To+Abdalla+Ahmed+Profile)](https://github.com/abdalla-3077)
 
 
