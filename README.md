@@ -19,18 +19,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Get My App
-
-[Download Nova](https://com-nova-nova.en.uptodown.com/android)
-
-### Daily.dev
-
-<a href="https://app.daily.dev/abdalla3077"><img src="https://api.daily.dev/devcards/v2/MohnQXHarwaWGrAGRT8KE.png?r=d9d&type=default" width="356" alt="Abdalla Ahmed's Dev Card"/></a>
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=abdalla-3077&icon=5&color=0)](https://visitcount.itsvg.in)
 
