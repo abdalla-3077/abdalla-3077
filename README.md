@@ -83,6 +83,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abdalla-3077/abdalla-3077/output/snake.svg" alt="Snake animation" />
+---
+# آية قرآنية
+---
+
+> "وَأَن لَّيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى، وَأَنَّ سَعْيَهُ سَوْفَ يُرَى"
+> - [النجم: 39-40]
+
+---
 
 ###
