@@ -86,9 +86,3 @@
 <img src="https://raw.githubusercontent.com/abdalla-3077/abdalla-3077/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="?theme=dark&spin=false&scan=true" alt="Widget with the current Spotify song"  />
-</div>
-
-###
