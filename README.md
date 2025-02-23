@@ -1,3 +1,10 @@
+---
+
+> "وَأَن لَّيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى، وَأَنَّ سَعْيَهُ سَوْفَ يُرَى"
+> - [النجم: 39-40]
+
+---
+
 <h2 align="left">Hi 👋! My name is Abdalla, and I'm a full stack and mobile developer from Egypt.</h2>
 
 ###
@@ -78,18 +85,5 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
----
-# آية قرآنية
----
-
-> "وَأَن لَّيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى، وَأَنَّ سَعْيَهُ سَوْفَ يُرَى"
-> - [النجم: 39-40]
-
----
 
 ###
