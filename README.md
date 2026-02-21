@@ -1,100 +1,128 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=200&section=header&text=Abdalla%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=18&descColor=888888&animation=fadeIn"/>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     ░█████╗░██████╗░██████╗░░█████╗░██╗░░░░░██╗░░░░░░█████╗  ║
+║     ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║░░░░░██║░░░░░██╔══██╗ ║
+║     ███████║██████╦╝██║░░██║███████║██║░░░░░██║░░░░░███████║ ║
+║     ██╔══██║██╔══██╗██║░░██║██╔══██║██║░░░░░██║░░░░░██╔══██║ ║
+║     ██║░░██║██████╦╝██████╔╝██║░░██║███████╗███████╗██║░░██║ ║
+║     ╚═╝░░╚═╝╚═════╝░╚═════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝ ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-</div>
+### ⚡ Full Stack & Mobile Developer · Egypt 🇪🇬
+### _Building things that matter, one commit at a time_
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Building+things+that+matter%2C+one+commit+at+a+time.;12%2C000%2B+users+served+%E2%80%94+and+counting.;Available+for+Freelance+%F0%9F%9F%A2)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/abdallaahmed.icu-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.abdallaahmed.icu/en)
-[![Gmail](https://img.shields.io/badge/abd0102413@gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:abd0102413@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-111111?style=flat-square&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/29759246/abdalla-ahmed)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=5865F2)](https://discordapp.com/users/1062197137749852290)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+Developer+%F0%9F%93%B1;Open+Source+Enthusiast+%E2%9C%A8;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```typescript
-const abdalla: Developer = {
-  name:     "Abdalla Ahmed",
+<img align="right" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg5aG5jcmtlZjJmYmZzNjBtcXQ1cGpmYWNjbHpsbDVqa2I3a2dpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
+## 👨‍💻 من أنا؟
+
+```javascript
+const abdalla = {
+  name: "Abdalla Ahmed",
   location: "Egypt 🇪🇬",
-  roles:    ["Full Stack Developer", "Mobile Developer"],
-  stack:    ["TypeScript", "Node.js", "React", "Go", "Python"],
-  current:  "Building products users love",
-  motto:    "وَأَن لَّيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى — النجم ٣٩"
+  role: ["Full Stack Developer", "Mobile Developer"],
+  languages: ["JavaScript", "TypeScript", "Go", "Python"],
+  currentlyLearning: "Always something new...",
+  funFact: "I debug with console.log and I'm proud of it 😂",
+  motto: "وَأَن لَّيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى"
 };
 ```
 
----
-
-## Selected Work
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Study Timer Bot**](https://github.com/abdalla-3077) | Gamified productivity bot · 12,000+ users | `Discord.js` `Bun` `Canvas` |
-| [**Learnify Platform**](https://www.abdallaahmed.icu/en/projects/learnify) | Comprehensive LMS with interactive learning | `Expo` `TypeScript` `MongoDB` |
-| [**Hi Egypt**](https://www.abdallaahmed.icu/en/projects/hiEgypt) | Tourism platform showcasing Egypt | `React` `Zustand` `MongoDB` |
-| [**Edufy Desktop**](https://www.abdallaahmed.icu/en/projects/edufy) | Offline learning management desktop app | `Electron` `React` `NeDB` |
-| [**NextStep AI**](https://www.abdallaahmed.icu/en/projects/nextStepAi) | AI-powered smart todo list | `Next.js` `Fastify` `Groq AI` |
-| [**Cairo IDE**](https://www.abdallaahmed.icu/en/projects/cairo-ide) | Mini IDE built in 3 days | `Electron` `React` `Vite` |
-| [**OG Platform**](https://www.abdallaahmed.icu/en/projects/og-platform) | Career opportunity guidance Android app | `React Native` `Expo` |
+<br clear="right"/>
 
 ---
 
-## Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=ffffff)
-![React Native](https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-111111?style=flat-square&logo=expo&logoColor=ffffff)
-![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=00ADD8)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
-![Electron](https://img.shields.io/badge/Electron-111111?style=flat-square&logo=electron&logoColor=47848F)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F24E1E)
-![Bun](https://img.shields.io/badge/Bun-111111?style=flat-square&logo=bun&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+**🌐 Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**⚙️ Backend & Mobile**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**🗄️ Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdalla-3077&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=888888&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla-3077&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdalla-3077&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="95%"/>
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdalla-3077&bg_color=0d1117&color=555555&line=444444&point=888888&area=true&area_color=1a1a1a&hide_border=true" />
+  <img src="https://github-trophies.vercel.app/?username=abdalla-3077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abd0102413@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1062197137749852290)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29759246/abdalla-ahmed)
+
 </div>
 
 ---
 
 <div align="center">
 
-**وَأَنَّ سَعْيَهُ سَوْفَ يُرَى**
-
-<sub>سورة النجم · ٤٠</sub>
+### 💬 وَأَن لَّيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى، وَأَنَّ سَعْيَهُ سَوْفَ يُرَى
+**— سورة النجم: ٣٩-٤٠**
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdalla-3077&color=555555&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=abdalla-3077&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=80&section=footer"/>
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%"/>
+</div>
