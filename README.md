@@ -86,6 +86,10 @@ const abdalla = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdalla-3077&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="95%"/>
+
+  <br/>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=abdalla-3077&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
