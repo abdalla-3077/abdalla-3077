@@ -66,7 +66,11 @@ I run **[Galaxy](https://www.galaxy-code.store/en)**, a software agency deliveri
 
 </div>
 ---
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uybqxagqf2a3v3he7p6rg5i6eu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uybqxagqf2a3v3he7p6rg5i6eu&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31uybqxagqf2a3v3he7p6rg5i6eu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uybqxagqf2a3v3he7p6rg5i6eu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=ffffff&bar_color_cover=true">
+  </a>
+</p>
 ---
 
 ## 🚀 Featured Projects
